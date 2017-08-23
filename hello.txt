@@ -7,3 +7,5 @@ i want learning git!
 git gui.
 
 generate.
+
+checkout checkout checkout!!!
