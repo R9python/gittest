@@ -5,3 +5,5 @@ my name is kenny!
 i want learning git!
 
 git gui.
+
+generate.
